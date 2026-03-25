@@ -1,0 +1,688 @@
+video_id,sentence_id,signer_id,sentence_text,sentence_length,fps,resolution,video_path,split
+MVI_6503.MP4,He is going into the room,1,He is going into the room,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\He is going into the room\MVI_6503.MP4,train
+he is going into the room (2).mp4,He is going into the room,2,He is going into the room,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\He is going into the room\he is going into the room (2).mp4,train
+he is going into the room.mp4,He is going into the room,3,He is going into the room,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\He is going into the room\he is going into the room.mp4,train
+room (2).MP4,He is going into the room,4,He is going into the room,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\He is going into the room\room (2).MP4,train
+room (3).MP4,He is going into the room,5,He is going into the room,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\He is going into the room\room (3).MP4,train
+room (4).MP4,He is going into the room,6,He is going into the room,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\He is going into the room\room (4).MP4,val
+room.MP4,He is going into the room,7,He is going into the room,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\He is going into the room\room.MP4,test
+MVI_6496.MP4,No need to worry dont worry,1,No need to worry dont worry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\No need to worry dont worry\MVI_6496.MP4,train
+MVI_6502.MP4,This place is beautiful,1,This place is beautiful,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\This place is beautiful\MVI_6502.MP4,train
+beautiful (2).MP4,This place is beautiful,2,This place is beautiful,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\This place is beautiful\beautiful (2).MP4,train
+beautiful (3).MP4,This place is beautiful,3,This place is beautiful,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\This place is beautiful\beautiful (3).MP4,train
+beautiful (4).MP4,This place is beautiful,4,This place is beautiful,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\This place is beautiful\beautiful (4).MP4,train
+beautiful.MP4,This place is beautiful,5,This place is beautiful,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\This place is beautiful\beautiful.MP4,train
+this place is beautiful (2).mp4,This place is beautiful,6,This place is beautiful,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\This place is beautiful\this place is beautiful (2).mp4,val
+this place is beautiful.mp4,This place is beautiful,7,This place is beautiful,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\This place is beautiful\this place is beautiful.mp4,test
+are you free today (2).mp4,are you free today,1,are you free today,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you free today\are you free today (2).mp4,train
+are you free today.mp4,are you free today,2,are you free today,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you free today\are you free today.mp4,train
+free (2).MP4,are you free today,3,are you free today,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you free today\free (2).MP4,train
+free (3).MP4,are you free today,4,are you free today,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you free today\free (3).MP4,train
+free (4).MP4,are you free today,5,are you free today,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you free today\free (4).MP4,train
+free (5).MP4,are you free today,6,are you free today,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you free today\free (5).MP4,val
+free.MP4,are you free today,7,are you free today,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you free today\free.MP4,test
+MVI_6209.MP4,are you hiding something,1,are you hiding something,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you hiding something\MVI_6209.MP4,train
+MVI_6507.MP4,are you hiding something,2,are you hiding something,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you hiding something\MVI_6507.MP4,train
+MVI_6685.MP4,are you hiding something,3,are you hiding something,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you hiding something\MVI_6685.MP4,train
+MVI_6817.MP4,are you hiding something,4,are you hiding something,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you hiding something\MVI_6817.MP4,train
+MVI_6958.MP4,are you hiding something,5,are you hiding something,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you hiding something\MVI_6958.MP4,train
+are you hiding something (2).mp4,are you hiding something,6,are you hiding something,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you hiding something\are you hiding something (2).mp4,val
+are you hiding something.mp4,are you hiding something,7,are you hiding something,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you hiding something\are you hiding something.mp4,test
+bring water for me (1).MP4,bring water for me,1,bring water for me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\bring water for me\bring water for me (1).MP4,train
+bring water for me (3).MP4,bring water for me,2,bring water for me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\bring water for me\bring water for me (3).MP4,train
+bring water for me (4).MP4,bring water for me,3,bring water for me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\bring water for me\bring water for me (4).MP4,train
+bring water for me (5).MP4,bring water for me,4,bring water for me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\bring water for me\bring water for me (5).MP4,train
+bring water for me (6).mp4,bring water for me,5,bring water for me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\bring water for me\bring water for me (6).mp4,train
+bring water for me (7).mp4,bring water for me,6,bring water for me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\bring water for me\bring water for me (7).mp4,val
+bring water for me (8).MP4,bring water for me,7,bring water for me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\bring water for me\bring water for me (8).MP4,test
+can i help you (2).mp4,can i help you,1,can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can i help you\can i help you (2).mp4,train
+can i help you.mp4,can i help you,2,can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can i help you\can i help you.mp4,train
+cannot help.MP4,can i help you,3,can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can i help you\cannot help.MP4,train
+help (2).MP4,can i help you,4,can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can i help you\help (2).MP4,train
+help (3).MP4,can i help you,5,can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can i help you\help (3).MP4,train
+help (4).MP4,can i help you,6,can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can i help you\help (4).MP4,val
+help (5).MP4,can i help you,7,can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can i help you\help (5).MP4,test
+help.MP4,can i help you,1,can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can i help you\help.MP4,train
+can you repeat that please (1).MP4,can you repeat that please,1,can you repeat that please,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can you repeat that please\can you repeat that please (1).MP4,train
+can you repeat that please (3).MP4,can you repeat that please,2,can you repeat that please,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can you repeat that please\can you repeat that please (3).MP4,train
+can you repeat that please (4).MP4,can you repeat that please,3,can you repeat that please,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can you repeat that please\can you repeat that please (4).MP4,train
+can you repeat that please (5).MP4,can you repeat that please,4,can you repeat that please,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can you repeat that please\can you repeat that please (5).MP4,train
+can you repeat that please (6).MP4,can you repeat that please,5,can you repeat that please,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can you repeat that please\can you repeat that please (6).MP4,train
+can you repeat that please (7).mp4,can you repeat that please,6,can you repeat that please,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can you repeat that please\can you repeat that please (7).mp4,val
+can you repeat that please (8).mp4,can you repeat that please,7,can you repeat that please,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\can you repeat that please\can you repeat that please (8).mp4,test
+comb (2).MP4,comb your hair,1,comb your hair,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\comb your hair\comb (2).MP4,train
+comb (3).MP4,comb your hair,2,comb your hair,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\comb your hair\comb (3).MP4,train
+comb (4).MP4,comb your hair,3,comb your hair,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\comb your hair\comb (4).MP4,train
+comb (5).MP4,comb your hair,4,comb your hair,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\comb your hair\comb (5).MP4,train
+comb your hair (2).mp4,comb your hair,5,comb your hair,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\comb your hair\comb your hair (2).mp4,train
+comb your hair.mp4,comb your hair,6,comb your hair,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\comb your hair\comb your hair.mp4,val
+comb.MP4,comb your hair,7,comb your hair,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\comb your hair\comb.MP4,test
+congratulations (2).mp4,congratulations,1,congratulations,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\congratulations\congratulations (2).mp4,train
+congratulations (3).MP4,congratulations,2,congratulations,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\congratulations\congratulations (3).MP4,train
+congratulations (4).MP4,congratulations,3,congratulations,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\congratulations\congratulations (4).MP4,train
+congratulations (5).MP4,congratulations,4,congratulations,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\congratulations\congratulations (5).MP4,train
+congratulations (6).MP4,congratulations,5,congratulations,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\congratulations\congratulations (6).MP4,train
+congratulations (7).MP4,congratulations,6,congratulations,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\congratulations\congratulations (7).MP4,val
+congratulations.mp4,congratulations,7,congratulations,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\congratulations\congratulations.mp4,test
+could you please talk slower (1).mp4,could you please talk slower,1,could you please talk slower,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\could you please talk slower\could you please talk slower (1).mp4,train
+could you please talk slower (2).mp4,could you please talk slower,2,could you please talk slower,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\could you please talk slower\could you please talk slower (2).mp4,train
+could you please talk slower (3).MP4,could you please talk slower,3,could you please talk slower,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\could you please talk slower\could you please talk slower (3).MP4,train
+could you please talk slower (4).MP4,could you please talk slower,4,could you please talk slower,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\could you please talk slower\could you please talk slower (4).MP4,train
+could you please talk slower (5).MP4,could you please talk slower,5,could you please talk slower,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\could you please talk slower\could you please talk slower (5).MP4,train
+could you please talk slower (6).MP4,could you please talk slower,6,could you please talk slower,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\could you please talk slower\could you please talk slower (6).MP4,val
+could you please talk slower (7).MP4,could you please talk slower,7,could you please talk slower,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\could you please talk slower\could you please talk slower (7).MP4,test
+do me a favour (2).mp4,do me a favour,1,do me a favour,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do me a favour\do me a favour (2).mp4,train
+do me a favour.mp4,do me a favour,2,do me a favour,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do me a favour\do me a favour.mp4,train
+favour (2).MP4,do me a favour,3,do me a favour,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do me a favour\favour (2).MP4,train
+favour (3).MP4,do me a favour,4,do me a favour,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do me a favour\favour (3).MP4,train
+favour (4).MP4,do me a favour,5,do me a favour,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do me a favour\favour (4).MP4,train
+favour (5).MP4,do me a favour,6,do me a favour,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do me a favour\favour (5).MP4,val
+favour.MP4,do me a favour,7,do me a favour,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do me a favour\favour.MP4,test
+abuse (2).MP4,do not abuse him,1,do not abuse him,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not abuse him\abuse (2).MP4,train
+abuse (3).MP4,do not abuse him,2,do not abuse him,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not abuse him\abuse (3).MP4,train
+abuse (4).MP4,do not abuse him,3,do not abuse him,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not abuse him\abuse (4).MP4,train
+abuse.MP4,do not abuse him,4,do not abuse him,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not abuse him\abuse.MP4,train
+do not abuse him (2).mp4,do not abuse him,5,do not abuse him,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not abuse him\do not abuse him (2).mp4,train
+do not abuse him.mp4,do not abuse him,6,do not abuse him,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not abuse him\do not abuse him.mp4,val
+do not be stubborn (2).mp4,do not be stubborn,1,do not be stubborn,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not be stubborn\do not be stubborn (2).mp4,train
+do not be stubborn.mp4,do not be stubborn,2,do not be stubborn,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not be stubborn\do not be stubborn.mp4,train
+stubborn (2).MP4,do not be stubborn,3,do not be stubborn,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not be stubborn\stubborn (2).MP4,train
+stubborn (3).MP4,do not be stubborn,4,do not be stubborn,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not be stubborn\stubborn (3).MP4,train
+stubborn (4).MP4,do not be stubborn,5,do not be stubborn,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not be stubborn\stubborn (4).MP4,train
+stubborn.MP4,do not be stubborn,6,do not be stubborn,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not be stubborn\stubborn.MP4,val
+do not hurt me (2).mp4,do not hurt me,1,do not hurt me ,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not hurt me\do not hurt me (2).mp4,train
+do not hurt me.mp4,do not hurt me,2,do not hurt me ,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not hurt me\do not hurt me.mp4,train
+hurt me (2).MP4,do not hurt me,3,do not hurt me ,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not hurt me\hurt me (2).MP4,train
+hurt me (3).MP4,do not hurt me,4,do not hurt me ,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not hurt me\hurt me (3).MP4,train
+hurt me (4).MP4,do not hurt me,5,do not hurt me ,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not hurt me\hurt me (4).MP4,train
+hurt me.MP4,do not hurt me,6,do not hurt me ,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not hurt me\hurt me.MP4,val
+hurt.MP4,do not hurt me,7,do not hurt me ,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not hurt me\hurt.MP4,test
+do not make me angry (2).mp4,do not make me angry,1,do not make me angry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not make me angry\do not make me angry (2).mp4,train
+do not make me angry.mp4,do not make me angry,2,do not make me angry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not make me angry\do not make me angry.mp4,train
+me angry (2).MP4,do not make me angry,3,do not make me angry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not make me angry\me angry (2).MP4,train
+me angry (3).MP4,do not make me angry,4,do not make me angry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not make me angry\me angry (3).MP4,train
+me angry (4).MP4,do not make me angry,5,do not make me angry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not make me angry\me angry (4).MP4,train
+me angry (5).MP4,do not make me angry,6,do not make me angry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not make me angry\me angry (5).MP4,val
+me angry.MP4,do not make me angry,7,do not make me angry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not make me angry\me angry.MP4,test
+do not take it to the heart (2).mp4,do not take it to the heart,1,do not take it to the heart,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not take it to the heart\do not take it to the heart (2).mp4,train
+do not take it to the heart.mp4,do not take it to the heart,2,do not take it to the heart,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not take it to the heart\do not take it to the heart.mp4,train
+heart (2).MP4,do not take it to the heart,3,do not take it to the heart,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not take it to the heart\heart (2).MP4,train
+heart (3).MP4,do not take it to the heart,4,do not take it to the heart,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not take it to the heart\heart (3).MP4,train
+heart (4).MP4,do not take it to the heart,5,do not take it to the heart,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not take it to the heart\heart (4).MP4,train
+heart (5).MP4,do not take it to the heart,6,do not take it to the heart,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not take it to the heart\heart (5).MP4,val
+heart.MP4,do not take it to the heart,7,do not take it to the heart,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not take it to the heart\heart.MP4,test
+MVI_6633.MP4,do not worry,1,do not worry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not worry\MVI_6633.MP4,train
+do not worry (2).mp4,do not worry,2,do not worry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not worry\do not worry (2).mp4,train
+do not worry.mp4,do not worry,3,do not worry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not worry\do not worry.mp4,train
+worry (2).MP4,do not worry,4,do not worry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not worry\worry (2).MP4,train
+worry (3).MP4,do not worry,5,do not worry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not worry\worry (3).MP4,train
+worry (4).MP4,do not worry,6,do not worry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not worry\worry (4).MP4,val
+worry.MP4,do not worry,7,do not worry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not worry\worry.MP4,test
+do you need something (2).mp4,do you need something,1,do you need something,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do you need something\do you need something (2).mp4,train
+do you need something.mp4,do you need something,2,do you need something,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do you need something\do you need something.mp4,train
+need something (2).MP4,do you need something,3,do you need something,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do you need something\need something (2).MP4,train
+need something.MP4,do you need something,4,do you need something,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do you need something\need something.MP4,train
+something (2).MP4,do you need something,5,do you need something,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do you need something\something (2).MP4,train
+something (3).MP4,do you need something,6,do you need something,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do you need something\something (3).MP4,val
+something.MP4,do you need something,7,do you need something,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\do you need something\something.MP4,test
+go and sleep (2).mp4,go and sleep,1,go and sleep,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\go and sleep\go and sleep (2).mp4,train
+go and sleep.mp4,go and sleep,2,go and sleep,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\go and sleep\go and sleep.mp4,train
+sleep (2).MP4,go and sleep,3,go and sleep,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\go and sleep\sleep (2).MP4,train
+sleep (3).MP4,go and sleep,4,go and sleep,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\go and sleep\sleep (3).MP4,train
+sleep (4).MP4,go and sleep,5,go and sleep,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\go and sleep\sleep (4).MP4,train
+sleep (5).MP4,go and sleep,6,go and sleep,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\go and sleep\sleep (5).MP4,val
+sleep (6).MP4,go and sleep,7,go and sleep,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\go and sleep\sleep (6).MP4,test
+sleep.MP4,go and sleep,1,go and sleep,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\go and sleep\sleep.MP4,train
+food (2).MP4,had your food,1,had your food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\had your food\food (2).MP4,train
+food (3).MP4,had your food,2,had your food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\had your food\food (3).MP4,train
+food (4).MP4,had your food,3,had your food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\had your food\food (4).MP4,train
+food (5).MP4,had your food,4,had your food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\had your food\food (5).MP4,train
+food.MP4,had your food,5,had your food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\had your food\food.MP4,train
+had your food (2).mp4,had your food,6,had your food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\had your food\had your food (2).mp4,val
+had your food.mp4,had your food,7,had your food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\had your food\had your food.mp4,test
+he came by train (2).mp4,he came by train,1,he came by train,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he came by train\he came by train (2).mp4,train
+he came by train.mp4,he came by train,2,he came by train,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he came by train\he came by train.mp4,train
+train (2).MP4,he came by train,3,he came by train,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he came by train\train (2).MP4,train
+train (3).MP4,he came by train,4,he came by train,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he came by train\train (3).MP4,train
+train (4).MP4,he came by train,5,he came by train,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he came by train\train (4).MP4,train
+train (5).MP4,he came by train,6,he came by train,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he came by train\train (5).MP4,val
+train.MP4,he came by train,7,he came by train,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he came by train\train.MP4,test
+he is on the way (2).mp4,he is on the way,1,he is on the way,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he is on the way\he is on the way (2).mp4,train
+he is on the way.mp4,he is on the way,2,he is on the way,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he is on the way\he is on the way.mp4,train
+way (2).MP4,he is on the way,3,he is on the way,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he is on the way\way (2).MP4,train
+way (3).MP4,he is on the way,4,he is on the way,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he is on the way\way (3).MP4,train
+way (4).MP4,he is on the way,5,he is on the way,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he is on the way\way (4).MP4,train
+way.MP4,he is on the way,6,he is on the way,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he is on the way\way.MP4,val
+MVI_6500.MP4,he she is my friend,1,he she is my friend,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he she is my friend\MVI_6500.MP4,train
+friend (2).MP4,he she is my friend,2,he she is my friend,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he she is my friend\friend (2).MP4,train
+friend (3).MP4,he she is my friend,3,he she is my friend,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he she is my friend\friend (3).MP4,train
+friend (4).MP4,he she is my friend,4,he she is my friend,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he she is my friend\friend (4).MP4,train
+friend.MP4,he she is my friend,5,he she is my friend,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he she is my friend\friend.MP4,train
+heshe is my friend.mp4,he she is my friend,6,he she is my friend,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he she is my friend\heshe is my friend.mp4,val
+she is my friend.mp4,he she is my friend,7,he she is my friend,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he she is my friend\she is my friend.mp4,test
+he would be coming today (2).mp4,he would be coming today,1,he would be coming today,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he would be coming today\he would be coming today (2).mp4,train
+he would be coming today.mp4,he would be coming today,2,he would be coming today,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he would be coming today\he would be coming today.mp4,train
+today (2).MP4,he would be coming today,3,he would be coming today,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he would be coming today\today (2).MP4,train
+today (3).MP4,he would be coming today,4,he would be coming today,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he would be coming today\today (3).MP4,train
+today (4).MP4,he would be coming today,5,he would be coming today,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he would be coming today\today (4).MP4,train
+today (5).MP4,he would be coming today,6,he would be coming today,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he would be coming today\today (5).MP4,val
+today.MP4,he would be coming today,7,he would be coming today,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\he would be coming today\today.MP4,test
+help me (1).MP4,help me,1,help me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\help me\help me (1).MP4,train
+help me (3).MP4,help me,2,help me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\help me\help me (3).MP4,train
+help me (4).MP4,help me,3,help me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\help me\help me (4).MP4,train
+help me (5).MP4,help me,4,help me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\help me\help me (5).MP4,train
+help me (6).mp4,help me,5,help me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\help me\help me (6).mp4,train
+help me (7).mp4,help me,6,help me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\help me\help me (7).mp4,val
+help me (8).MP4,help me,7,help me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\help me\help me (8).MP4,test
+hi how are you (1).mp4,hi how are you,1,hi how are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\hi how are you\hi how are you (1).mp4,train
+hi how are you (2).mp4,hi how are you,2,hi how are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\hi how are you\hi how are you (2).mp4,train
+hi how are you (3).MP4,hi how are you,3,hi how are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\hi how are you\hi how are you (3).MP4,train
+hi how are you (4).MP4,hi how are you,4,hi how are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\hi how are you\hi how are you (4).MP4,train
+hi how are you (5).MP4,hi how are you,5,hi how are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\hi how are you\hi how are you (5).MP4,train
+hi how are you (6).MP4,hi how are you,6,hi how are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\hi how are you\hi how are you (6).MP4,val
+hi how are you (7).MP4,hi how are you,7,hi how are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\hi how are you\hi how are you (7).MP4,test
+how are things (2).mp4,how are things,1,how are things,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how are things\how are things (2).mp4,train
+how are things.mp4,how are things,2,how are things,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how are things\how are things.mp4,train
+things (2).MP4,how are things,3,how are things,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how are things\things (2).MP4,train
+things (3).MP4,how are things,4,how are things,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how are things\things (3).MP4,train
+things (4).MP4,how are things,5,how are things,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how are things\things (4).MP4,train
+things.MP4,how are things,6,how are things,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how are things\things.MP4,val
+how can i help you (1).mp4,how can i help you,1,how can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i help you\how can i help you (1).mp4,train
+how can i help you (2).mp4,how can i help you,2,how can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i help you\how can i help you (2).mp4,train
+how can i help you (3).MP4,how can i help you,3,how can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i help you\how can i help you (3).MP4,train
+how can i help you (4).MP4,how can i help you,4,how can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i help you\how can i help you (4).MP4,train
+how can i help you (5).MP4,how can i help you,5,how can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i help you\how can i help you (5).MP4,train
+how can i help you (6).MP4,how can i help you,6,how can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i help you\how can i help you (6).MP4,val
+how can i help you (7).MP4,how can i help you,7,how can i help you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i help you\how can i help you (7).MP4,test
+how can i trust you (2).mp4,how can i trust you,1,how can i trust you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i trust you\how can i trust you (2).mp4,train
+how can i trust you.mp4,how can i trust you,2,how can i trust you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i trust you\how can i trust you.mp4,train
+trust (2).MP4,how can i trust you,3,how can i trust you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i trust you\trust (2).MP4,train
+trust (3).MP4,how can i trust you,4,how can i trust you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i trust you\trust (3).MP4,train
+trust (4).MP4,how can i trust you,5,how can i trust you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i trust you\trust (4).MP4,train
+trust (5).MP4,how can i trust you,6,how can i trust you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i trust you\trust (5).MP4,val
+trust.MP4,how can i trust you,7,how can i trust you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i trust you\trust.MP4,test
+dare (2).MP4,how dare you,1,how dare you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how dare you\dare (2).MP4,train
+dare (3).MP4,how dare you,2,how dare you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how dare you\dare (3).MP4,train
+dare (4).MP4,how dare you,3,how dare you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how dare you\dare (4).MP4,train
+dare (5).MP4,how dare you,4,how dare you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how dare you\dare (5).MP4,train
+dare.MP4,how dare you,5,how dare you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how dare you\dare.MP4,train
+how dare you (2).mp4,how dare you,6,how dare you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how dare you\how dare you (2).mp4,val
+how dare you.mp4,how dare you,7,how dare you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how dare you\how dare you.mp4,test
+how old are you (1).mp4,how old are you,1,how old are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how old are you\how old are you (1).mp4,train
+how old are you (2).mp4,how old are you,2,how old are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how old are you\how old are you (2).mp4,train
+how old are you (3).MP4,how old are you,3,how old are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how old are you\how old are you (3).MP4,train
+how old are you (4).MP4,how old are you,4,how old are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how old are you\how old are you (4).MP4,train
+how old are you (5).MP4,how old are you,5,how old are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how old are you\how old are you (5).MP4,train
+how old are you (6).MP4,how old are you,6,how old are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how old are you\how old are you (6).MP4,val
+how old are you (7).MP4,how old are you,7,how old are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\how old are you\how old are you (7).MP4,test
+i am (age) (1).MP4,i am (age),1,,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am (age)\i am (age) (1).MP4,train
+i am (age) (2).MP4,i am (age),2,,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am (age)\i am (age) (2).MP4,train
+i am (age) (3).MP4,i am (age),3,,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am (age)\i am (age) (3).MP4,train
+i am (age) (4).MP4,i am (age),4,,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am (age)\i am (age) (4).MP4,train
+i am (age) (5).MP4,i am (age),5,,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am (age)\i am (age) (5).MP4,train
+i am (age) (6).mp4,i am (age),6,,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am (age)\i am (age) (6).mp4,val
+afraid (2).MP4,i am afraid of that,1,i am afraid of that,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am afraid of that\afraid (2).MP4,train
+afraid (3).MP4,i am afraid of that,2,i am afraid of that,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am afraid of that\afraid (3).MP4,train
+afraid (4).MP4,i am afraid of that,3,i am afraid of that,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am afraid of that\afraid (4).MP4,train
+afraid (5).MP4,i am afraid of that,4,i am afraid of that,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am afraid of that\afraid (5).MP4,train
+afraid.MP4,i am afraid of that,5,i am afraid of that,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am afraid of that\afraid.MP4,train
+i am afraid of that (2).mp4,i am afraid of that,6,i am afraid of that,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am afraid of that\i am afraid of that (2).mp4,val
+i am afraid of that.mp4,i am afraid of that,7,i am afraid of that,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am afraid of that\i am afraid of that.mp4,test
+i am crying (2).mp4,i am crying,1,i am crying,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am crying\i am crying (2).mp4,train
+i am crying (3).MP4,i am crying,2,i am crying,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am crying\i am crying (3).MP4,train
+i am crying (4).MP4,i am crying,3,i am crying,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am crying\i am crying (4).MP4,train
+i am crying (5).MP4,i am crying,4,i am crying,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am crying\i am crying (5).MP4,train
+i am crying (6).MP4,i am crying,5,i am crying,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am crying\i am crying (6).MP4,train
+i am crying (7).MP4,i am crying,6,i am crying,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am crying\i am crying (7).MP4,val
+i am crying.mp4,i am crying,7,i am crying,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am crying\i am crying.mp4,test
+bored (2).MP4,i am feeling bored,1,i am feeling bored,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling bored\bored (2).MP4,train
+bored (3).MP4,i am feeling bored,2,i am feeling bored,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling bored\bored (3).MP4,train
+bored (4).MP4,i am feeling bored,3,i am feeling bored,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling bored\bored (4).MP4,train
+bored (5).MP4,i am feeling bored,4,i am feeling bored,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling bored\bored (5).MP4,train
+bored.MP4,i am feeling bored,5,i am feeling bored,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling bored\bored.MP4,train
+i am feeling bored (2).mp4,i am feeling bored,6,i am feeling bored,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling bored\i am feeling bored (2).mp4,val
+i am feeling bored.mp4,i am feeling bored,7,i am feeling bored,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling bored\i am feeling bored.mp4,test
+cold (2).MP4,i am feeling cold,1,i am feeling cold,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling cold\cold (2).MP4,train
+cold (3).MP4,i am feeling cold,2,i am feeling cold,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling cold\cold (3).MP4,train
+cold (4).MP4,i am feeling cold,3,i am feeling cold,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling cold\cold (4).MP4,train
+cold (5).MP4,i am feeling cold,4,i am feeling cold,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling cold\cold (5).MP4,train
+cold.MP4,i am feeling cold,5,i am feeling cold,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling cold\cold.MP4,train
+i am feeling cold (2).mp4,i am feeling cold,6,i am feeling cold,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling cold\i am feeling cold (2).mp4,val
+i am feeling cold.mp4,i am feeling cold,7,i am feeling cold,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling cold\i am feeling cold.mp4,test
+fine thank (2).MP4,i am fine. thank you sir,1,i am fine. thank you sir,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am fine. thank you sir\fine thank (2).MP4,train
+fine thank (3).MP4,i am fine. thank you sir,2,i am fine. thank you sir,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am fine. thank you sir\fine thank (3).MP4,train
+fine thank (4).MP4,i am fine. thank you sir,3,i am fine. thank you sir,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am fine. thank you sir\fine thank (4).MP4,train
+fine thank (5).MP4,i am fine. thank you sir,4,i am fine. thank you sir,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am fine. thank you sir\fine thank (5).MP4,train
+fine thank.MP4,i am fine. thank you sir,5,i am fine. thank you sir,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am fine. thank you sir\fine thank.MP4,train
+i am fine. thank you sir (2).mp4,i am fine. thank you sir,6,i am fine. thank you sir,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am fine. thank you sir\i am fine. thank you sir (2).mp4,val
+i am fine. thank you sir.mp4,i am fine. thank you sir,7,i am fine. thank you sir,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am fine. thank you sir\i am fine. thank you sir.mp4,test
+i am hungry   (1).mp4,i am hungry,1,i am hungry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am hungry\i am hungry   (1).mp4,train
+i am hungry   (2).mp4,i am hungry,2,i am hungry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am hungry\i am hungry   (2).mp4,train
+i am hungry   (3).MP4,i am hungry,3,i am hungry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am hungry\i am hungry   (3).MP4,train
+i am hungry   (4).MP4,i am hungry,4,i am hungry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am hungry\i am hungry   (4).MP4,train
+i am hungry   (5).MP4,i am hungry,5,i am hungry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am hungry\i am hungry   (5).MP4,train
+i am hungry   (6).MP4,i am hungry,6,i am hungry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am hungry\i am hungry   (6).MP4,val
+i am hungry   (7).MP4,i am hungry,7,i am hungry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am hungry\i am hungry   (7).MP4,test
+dilemma (2).MP4,i am in dilemma what to do,1,i am in dilemma what to do,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am in dilemma what to do\dilemma (2).MP4,train
+dilemma (3).MP4,i am in dilemma what to do,2,i am in dilemma what to do,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am in dilemma what to do\dilemma (3).MP4,train
+dilemma (4).MP4,i am in dilemma what to do,3,i am in dilemma what to do,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am in dilemma what to do\dilemma (4).MP4,train
+dilemma (5).MP4,i am in dilemma what to do,4,i am in dilemma what to do,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am in dilemma what to do\dilemma (5).MP4,train
+dilemma.MP4,i am in dilemma what to do,5,i am in dilemma what to do,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am in dilemma what to do\dilemma.MP4,train
+i am in dilemma what to do (2).mp4,i am in dilemma what to do,6,i am in dilemma what to do,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am in dilemma what to do\i am in dilemma what to do (2).mp4,val
+i am in dilemma what to do.mp4,i am in dilemma what to do,7,i am in dilemma what to do,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am in dilemma what to do\i am in dilemma what to do.mp4,test
+MVI_6546.MP4,i am not really sure,1,i am not really sure,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am not really sure\MVI_6546.MP4,train
+i am not really sure (2).mp4,i am not really sure,2,i am not really sure,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am not really sure\i am not really sure (2).mp4,train
+i am not really sure.mp4,i am not really sure,3,i am not really sure,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am not really sure\i am not really sure.mp4,train
+really sure (2).MP4,i am not really sure,4,i am not really sure,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am not really sure\really sure (2).MP4,train
+really sure (3).MP4,i am not really sure,5,i am not really sure,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am not really sure\really sure (3).MP4,train
+really sure (4).MP4,i am not really sure,6,i am not really sure,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am not really sure\really sure (4).MP4,val
+really sure.MP4,i am not really sure,7,i am not really sure,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am not really sure\really sure.MP4,test
+MVI_6104.MP4,i am really grateful,1,i am really grateful,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am really grateful\MVI_6104.MP4,train
+MVI_6395.MP4,i am really grateful,2,i am really grateful,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am really grateful\MVI_6395.MP4,train
+MVI_6539.MP4,i am really grateful,3,i am really grateful,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am really grateful\MVI_6539.MP4,train
+MVI_6721.MP4,i am really grateful,4,i am really grateful,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am really grateful\MVI_6721.MP4,train
+MVI_6849.MP4,i am really grateful,5,i am really grateful,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am really grateful\MVI_6849.MP4,train
+i am really grateful (2).mp4,i am really grateful,6,i am really grateful,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am really grateful\i am really grateful (2).mp4,val
+i am really grateful.mp4,i am really grateful,7,i am really grateful,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am really grateful\i am really grateful.mp4,test
+i am sitting in the class (2).mp4,i am sitting in the class,1,i am sitting in the class,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am sitting in the class\i am sitting in the class (2).mp4,train
+i am sitting in the class.mp4,i am sitting in the class,2,i am sitting in the class,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am sitting in the class\i am sitting in the class.mp4,train
+sitting (2).MP4,i am sitting in the class,3,i am sitting in the class,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am sitting in the class\sitting (2).MP4,train
+sitting (3).MP4,i am sitting in the class,4,i am sitting in the class,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am sitting in the class\sitting (3).MP4,train
+sitting (4).MP4,i am sitting in the class,5,i am sitting in the class,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am sitting in the class\sitting (4).MP4,train
+sitting (5).MP4,i am sitting in the class,6,i am sitting in the class,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am sitting in the class\sitting (5).MP4,val
+sitting.MP4,i am sitting in the class,7,i am sitting in the class,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am sitting in the class\sitting.MP4,test
+i am so sorry to hear that (2).mp4,i am so sorry to hear that,1,i am so sorry to hear that,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am so sorry to hear that\i am so sorry to hear that (2).mp4,train
+i am so sorry to hear that.mp4,i am so sorry to hear that,2,i am so sorry to hear that,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am so sorry to hear that\i am so sorry to hear that.mp4,train
+sorry hear (2).MP4,i am so sorry to hear that,3,i am so sorry to hear that,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am so sorry to hear that\sorry hear (2).MP4,train
+sorry hear (3).MP4,i am so sorry to hear that,4,i am so sorry to hear that,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am so sorry to hear that\sorry hear (3).MP4,train
+sorry hear (4).MP4,i am so sorry to hear that,5,i am so sorry to hear that,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am so sorry to hear that\sorry hear (4).MP4,train
+sorry hear (5).MP4,i am so sorry to hear that,6,i am so sorry to hear that,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am so sorry to hear that\sorry hear (5).MP4,val
+sorry hear.MP4,i am so sorry to hear that,7,i am so sorry to hear that,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am so sorry to hear that\sorry hear.MP4,test
+fever (2).MP4,i am suffering from fever,1,i am suffering from fever,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am suffering from fever\fever (2).MP4,train
+fever (3).MP4,i am suffering from fever,2,i am suffering from fever,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am suffering from fever\fever (3).MP4,train
+fever (4).MP4,i am suffering from fever,3,i am suffering from fever,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am suffering from fever\fever (4).MP4,train
+fever (5).MP4,i am suffering from fever,4,i am suffering from fever,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am suffering from fever\fever (5).MP4,train
+fever.MP4,i am suffering from fever,5,i am suffering from fever,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am suffering from fever\fever.MP4,train
+i am suffering from fever (2).mp4,i am suffering from fever,6,i am suffering from fever,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am suffering from fever\i am suffering from fever (2).mp4,val
+i am suffering from fever.mp4,i am suffering from fever,7,i am suffering from fever,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am suffering from fever\i am suffering from fever.mp4,test
+i am tired (2).mp4,i am tired,1,i am tired,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am tired\i am tired (2).mp4,train
+i am tired.mp4,i am tired,2,i am tired,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am tired\i am tired.mp4,train
+tired (2).MP4,i am tired,3,i am tired,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am tired\tired (2).MP4,train
+tired (3).MP4,i am tired,4,i am tired,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am tired\tired (3).MP4,train
+tired (4).MP4,i am tired,5,i am tired,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am tired\tired (4).MP4,train
+tired (5).MP4,i am tired,6,i am tired,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am tired\tired (5).MP4,val
+tired.MP4,i am tired,7,i am tired,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am tired\tired.MP4,test
+i am very happy (2).mp4,i am very happy,1,i am very happy,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am very happy\i am very happy (2).mp4,train
+i am very happy.mp4,i am very happy,2,i am very happy,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am very happy\i am very happy.mp4,train
+very happy (2).MP4,i am very happy,3,i am very happy,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am very happy\very happy (2).MP4,train
+very happy (3).MP4,i am very happy,4,i am very happy,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am very happy\very happy (3).MP4,train
+very happy (4).MP4,i am very happy,5,i am very happy,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am very happy\very happy (4).MP4,train
+very happy.MP4,i am very happy,6,i am very happy,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am very happy\very happy.MP4,val
+MVI_6109.MP4,i can not help you there,1,i can not help you there,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i can not help you there\MVI_6109.MP4,train
+MVI_6399.MP4,i can not help you there,2,i can not help you there,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i can not help you there\MVI_6399.MP4,train
+MVI_6545.MP4,i can not help you there,3,i can not help you there,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i can not help you there\MVI_6545.MP4,train
+MVI_6725.MP4,i can not help you there,4,i can not help you there,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i can not help you there\MVI_6725.MP4,train
+MVI_6854.MP4,i can not help you there,5,i can not help you there,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i can not help you there\MVI_6854.MP4,train
+i can not help you there (2).mp4,i can not help you there,6,i can not help you there,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i can not help you there\i can not help you there (2).mp4,val
+i can not help you there.mp4,i can not help you there,7,i can not help you there,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i can not help you there\i can not help you there.mp4,test
+agree (2).MP4,i do not agree,1,i do not agree,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not agree\agree (2).MP4,train
+agree (3).MP4,i do not agree,2,i do not agree,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not agree\agree (3).MP4,train
+agree (4).MP4,i do not agree,3,i do not agree,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not agree\agree (4).MP4,train
+agree (5).MP4,i do not agree,4,i do not agree,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not agree\agree (5).MP4,train
+agree.MP4,i do not agree,5,i do not agree,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not agree\agree.MP4,train
+i do not agree (2).mp4,i do not agree,6,i do not agree,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not agree\i do not agree (2).mp4,val
+i do not agree.mp4,i do not agree,7,i do not agree,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not agree\i do not agree.mp4,test
+hate (2).MP4,i do not like it,1,i do not like it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not like it\hate (2).MP4,train
+hate (3).MP4,i do not like it,2,i do not like it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not like it\hate (3).MP4,train
+hate (4).MP4,i do not like it,3,i do not like it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not like it\hate (4).MP4,train
+hate it.MP4,i do not like it,4,i do not like it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not like it\hate it.MP4,train
+hate.MP4,i do not like it,5,i do not like it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not like it\hate.MP4,train
+i do not like it (2).mp4,i do not like it,6,i do not like it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not like it\i do not like it (2).mp4,val
+i do not like it.mp4,i do not like it,7,i do not like it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not like it\i do not like it.mp4,test
+i do not mean it (3).mp4,i do not mean it,1,i do not mean it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not mean it\i do not mean it (3).mp4,train
+i do not mean it.mp4,i do not mean it,2,i do not mean it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not mean it\i do not mean it.mp4,train
+mean (2).MP4,i do not mean it,3,i do not mean it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not mean it\mean (2).MP4,train
+mean (3).MP4,i do not mean it,4,i do not mean it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not mean it\mean (3).MP4,train
+mean (4).MP4,i do not mean it,5,i do not mean it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not mean it\mean (4).MP4,train
+mean (5).MP4,i do not mean it,6,i do not mean it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not mean it\mean (5).MP4,val
+mean.MP4,i do not mean it,7,i do not mean it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not mean it\mean.MP4,test
+MVI_6494.MP4,i dont agree,1,i dont agree,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i dont agree\MVI_6494.MP4,train
+enjoy (2).MP4,i enjoyed a lot,1,i enjoyed a lot,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i enjoyed a lot\enjoy (2).MP4,train
+enjoy.MP4,i enjoyed a lot,2,i enjoyed a lot,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i enjoyed a lot\enjoy.MP4,train
+enjoyed (2).MP4,i enjoyed a lot,3,i enjoyed a lot,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i enjoyed a lot\enjoyed (2).MP4,train
+enjoyed (3).MP4,i enjoyed a lot,4,i enjoyed a lot,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i enjoyed a lot\enjoyed (3).MP4,train
+enjoyed (4).MP4,i enjoyed a lot,5,i enjoyed a lot,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i enjoyed a lot\enjoyed (4).MP4,train
+enjoyed.MP4,i enjoyed a lot,6,i enjoyed a lot,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i enjoyed a lot\enjoyed.MP4,val
+i enjoyed a lot (2).mp4,i enjoyed a lot,7,i enjoyed a lot,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i enjoyed a lot\i enjoyed a lot (2).mp4,test
+i enjoyed a lot.mp4,i enjoyed a lot,1,i enjoyed a lot,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i enjoyed a lot\i enjoyed a lot.mp4,train
+got hurt (2).MP4,i got hurt,1,i got hurt,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i got hurt\got hurt (2).MP4,train
+got hurt (3).MP4,i got hurt,2,i got hurt,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i got hurt\got hurt (3).MP4,train
+got hurt (4).MP4,i got hurt,3,i got hurt,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i got hurt\got hurt (4).MP4,train
+got hurt (5).MP4,i got hurt,4,i got hurt,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i got hurt\got hurt (5).MP4,train
+got hurt.MP4,i got hurt,5,i got hurt,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i got hurt\got hurt.MP4,train
+i got hurt (2).mp4,i got hurt,6,i got hurt,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i got hurt\i got hurt (2).mp4,val
+i got hurt.mp4,i got hurt,7,i got hurt,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i got hurt\i got hurt.mp4,test
+MVI_6207.MP4,i like you i love you,1,i like you i love you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i like you i love you\MVI_6207.MP4,train
+MVI_6505.MP4,i like you i love you,2,i like you i love you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i like you i love you\MVI_6505.MP4,train
+MVI_6682.MP4,i like you i love you,3,i like you i love you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i like you i love you\MVI_6682.MP4,train
+MVI_6814.MP4,i like you i love you,4,i like you i love you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i like you i love you\MVI_6814.MP4,train
+MVI_6956.MP4,i like you i love you,5,i like you i love you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i like you i love you\MVI_6956.MP4,train
+i love you (2).mp4,i like you i love you,6,i like you i love you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i like you i love you\i love you (2).mp4,val
+i love you.mp4,i like you i love you,7,i like you i love you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i like you i love you\i love you.mp4,test
+love.MP4,i like you i love you,1,i like you i love you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i like you i love you\love.MP4,train
+i need water 1.mp4,i need water,1,i need water,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i need water\i need water 1.mp4,train
+i need water 2.mp4,i need water,2,i need water,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i need water\i need water 2.mp4,train
+i need water 3.MP4,i need water,3,i need water,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i need water\i need water 3.MP4,train
+i need water 4.MP4,i need water,4,i need water,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i need water\i need water 4.MP4,train
+i need water 5.MP4,i need water,5,i need water,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i need water\i need water 5.MP4,train
+i need water 6.MP4,i need water,6,i need water,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i need water\i need water 6.MP4,val
+i need water 7.MP4,i need water,7,i need water,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i need water\i need water 7.MP4,test
+i promise (2).mp4,i promise,1,i promise,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i promise\i promise (2).mp4,train
+i promise.mp4,i promise,2,i promise,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i promise\i promise.mp4,train
+promise (2).MP4,i promise,3,i promise,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i promise\promise (2).MP4,train
+promise (3).MP4,i promise,4,i promise,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i promise\promise (3).MP4,train
+promise (4).MP4,i promise,5,i promise,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i promise\promise (4).MP4,train
+promise (5).MP4,i promise,6,i promise,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i promise\promise (5).MP4,val
+promise.MP4,i promise,7,i promise,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i promise\promise.MP4,test
+i really appreciate it (1).mp4,i really appreciate it,1,i really appreciate it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i really appreciate it\i really appreciate it (1).mp4,train
+i really appreciate it (2).mp4,i really appreciate it,2,i really appreciate it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i really appreciate it\i really appreciate it (2).mp4,train
+i really appreciate it (3).MP4,i really appreciate it,3,i really appreciate it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i really appreciate it\i really appreciate it (3).MP4,train
+i really appreciate it (4).MP4,i really appreciate it,4,i really appreciate it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i really appreciate it\i really appreciate it (4).MP4,train
+i really appreciate it (5).MP4,i really appreciate it,5,i really appreciate it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i really appreciate it\i really appreciate it (5).MP4,train
+i really appreciate it (6).MP4,i really appreciate it,6,i really appreciate it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i really appreciate it\i really appreciate it (6).MP4,val
+i really appreciate it (7).MP4,i really appreciate it,7,i really appreciate it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i really appreciate it\i really appreciate it (7).MP4,test
+i somehow got to know about it..mp4,i somehow got to know about it,1,i somehow got to know about it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i somehow got to know about it\i somehow got to know about it..mp4,train
+i somehow got to know about it.mp4,i somehow got to know about it,2,i somehow got to know about it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i somehow got to know about it\i somehow got to know about it.mp4,train
+somehow (2).MP4,i somehow got to know about it,3,i somehow got to know about it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i somehow got to know about it\somehow (2).MP4,train
+somehow (3).MP4,i somehow got to know about it,4,i somehow got to know about it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i somehow got to know about it\somehow (3).MP4,train
+somehow (4).MP4,i somehow got to know about it,5,i somehow got to know about it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i somehow got to know about it\somehow (4).MP4,train
+somehow (5).MP4,i somehow got to know about it,6,i somehow got to know about it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i somehow got to know about it\somehow (5).MP4,val
+somehow.MP4,i somehow got to know about it,7,i somehow got to know about it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i somehow got to know about it\somehow.MP4,test
+MVI_6504.MP4,i was stopped by some one,1,i was stopped by some one,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i was stopped by some one\MVI_6504.MP4,train
+MVI_6955.MP4,i was stopped by some one,2,i was stopped by some one,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i was stopped by some one\MVI_6955.MP4,train
+i was stopped by someone (2).mp4,i was stopped by some one,3,i was stopped by some one,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i was stopped by some one\i was stopped by someone (2).mp4,train
+i was stopped by someone.mp4,i was stopped by some one,4,i was stopped by some one,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i was stopped by some one\i was stopped by someone.mp4,train
+stopped (2).MP4,i was stopped by some one,5,i was stopped by some one,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i was stopped by some one\stopped (2).MP4,train
+stopped (3).MP4,i was stopped by some one,6,i was stopped by some one,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i was stopped by some one\stopped (3).MP4,val
+stopped.MP4,i was stopped by some one,7,i was stopped by some one,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\i was stopped by some one\stopped.MP4,test
+difference (2).MP4,it does not make any difference to me,1,it does not make any difference to me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\it does not make any difference to me\difference (2).MP4,train
+difference (3).MP4,it does not make any difference to me,2,it does not make any difference to me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\it does not make any difference to me\difference (3).MP4,train
+difference (4).MP4,it does not make any difference to me,3,it does not make any difference to me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\it does not make any difference to me\difference (4).MP4,train
+difference (5).MP4,it does not make any difference to me,4,it does not make any difference to me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\it does not make any difference to me\difference (5).MP4,train
+difference.MP4,it does not make any difference to me,5,it does not make any difference to me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\it does not make any difference to me\difference.MP4,train
+it does not make any difference to me (2).mp4,it does not make any difference to me,6,it does not make any difference to me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\it does not make any difference to me\it does not make any difference to me (2).mp4,val
+it does not make any difference to me.mp4,it does not make any difference to me,7,it does not make any difference to me,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\it does not make any difference to me\it does not make any difference to me.mp4,test
+MVI_6107.MP4,it was nice chatting with you,1,it was nice chatting with you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\it was nice chatting with you\MVI_6107.MP4,train
+MVI_6398.MP4,it was nice chatting with you,2,it was nice chatting with you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\it was nice chatting with you\MVI_6398.MP4,train
+MVI_6542.MP4,it was nice chatting with you,3,it was nice chatting with you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\it was nice chatting with you\MVI_6542.MP4,train
+MVI_6724.MP4,it was nice chatting with you,4,it was nice chatting with you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\it was nice chatting with you\MVI_6724.MP4,train
+MVI_6853.MP4,it was nice chatting with you,5,it was nice chatting with you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\it was nice chatting with you\MVI_6853.MP4,train
+it was nice chatting with you (2).mp4,it was nice chatting with you,6,it was nice chatting with you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\it was nice chatting with you\it was nice chatting with you (2).mp4,val
+it was nice chatting with you.mp4,it was nice chatting with you,7,it was nice chatting with you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\it was nice chatting with you\it was nice chatting with you.mp4,test
+let him take time (2).mp4,let him take time,1,let him take time,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\let him take time\let him take time (2).mp4,train
+let him take time.mp4,let him take time,2,let him take time,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\let him take time\let him take time.mp4,train
+time (2).MP4,let him take time,3,let him take time,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\let him take time\time (2).MP4,train
+time (3).MP4,let him take time,4,let him take time,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\let him take time\time (3).MP4,train
+time (4).MP4,let him take time,5,let him take time,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\let him take time\time (4).MP4,train
+time (5).MP4,let him take time,6,let him take time,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\let him take time\time (5).MP4,val
+time.MP4,let him take time,7,let him take time,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\let him take time\time.MP4,test
+my name is xxxxxxxx (1).MP4,my name is xxxxxxxx,1,my name is xxxxxxxx,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\my name is xxxxxxxx\my name is xxxxxxxx (1).MP4,train
+my name is xxxxxxxx (2).MP4,my name is xxxxxxxx,2,my name is xxxxxxxx,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\my name is xxxxxxxx\my name is xxxxxxxx (2).MP4,train
+my name is xxxxxxxx (3).MP4,my name is xxxxxxxx,3,my name is xxxxxxxx,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\my name is xxxxxxxx\my name is xxxxxxxx (3).MP4,train
+my name is xxxxxxxx (4).MP4,my name is xxxxxxxx,4,my name is xxxxxxxx,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\my name is xxxxxxxx\my name is xxxxxxxx (4).MP4,train
+my name is xxxxxxxx (5).MP4,my name is xxxxxxxx,5,my name is xxxxxxxx,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\my name is xxxxxxxx\my name is xxxxxxxx (5).MP4,train
+my name is xxxxxxxx (6).mp4,my name is xxxxxxxx,6,my name is xxxxxxxx,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\my name is xxxxxxxx\my name is xxxxxxxx (6).mp4,val
+my name is xxxxxxxx (7).mp4,my name is xxxxxxxx,7,my name is xxxxxxxx,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\my name is xxxxxxxx\my name is xxxxxxxx (7).mp4,test
+nice to meet you (1).MP4,nice to meet you,1,nice to meet you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\nice to meet you\nice to meet you (1).MP4,train
+nice to meet you (3).MP4,nice to meet you,2,nice to meet you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\nice to meet you\nice to meet you (3).MP4,train
+nice to meet you (4).MP4,nice to meet you,3,nice to meet you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\nice to meet you\nice to meet you (4).MP4,train
+nice to meet you (5).MP4,nice to meet you,4,nice to meet you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\nice to meet you\nice to meet you (5).MP4,train
+nice to meet you (6).MP4,nice to meet you,5,nice to meet you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\nice to meet you\nice to meet you (6).MP4,train
+nice to meet you (7).mp4,nice to meet you,6,nice to meet you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\nice to meet you\nice to meet you (7).mp4,val
+nice to meet you (8).mp4,nice to meet you,7,nice to meet you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\nice to meet you\nice to meet you (8).mp4,test
+never hurt (2).MP4,now onwards he will never hurt you,1,now onwards he will never hurt you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\now onwards he will never hurt you\never hurt (2).MP4,train
+never hurt (3).MP4,now onwards he will never hurt you,2,now onwards he will never hurt you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\now onwards he will never hurt you\never hurt (3).MP4,train
+never hurt (4).MP4,now onwards he will never hurt you,3,now onwards he will never hurt you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\now onwards he will never hurt you\never hurt (4).MP4,train
+never hurt (5).MP4,now onwards he will never hurt you,4,now onwards he will never hurt you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\now onwards he will never hurt you\never hurt (5).MP4,train
+never hurt.MP4,now onwards he will never hurt you,5,now onwards he will never hurt you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\now onwards he will never hurt you\never hurt.MP4,train
+now onwards he will never hurt you.mp4,now onwards he will never hurt you,6,now onwards he will never hurt you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\now onwards he will never hurt you\now onwards he will never hurt you.mp4,val
+pour (2).MP4,pour some more water into the glass,1,pour some more water into the glass,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\pour some more water into the glass\pour (2).MP4,train
+pour (3).MP4,pour some more water into the glass,2,pour some more water into the glass,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\pour some more water into the glass\pour (3).MP4,train
+pour (4).MP4,pour some more water into the glass,3,pour some more water into the glass,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\pour some more water into the glass\pour (4).MP4,train
+pour (5).MP4,pour some more water into the glass,4,pour some more water into the glass,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\pour some more water into the glass\pour (5).MP4,train
+pour some more water into the glass (2).mp4,pour some more water into the glass,5,pour some more water into the glass,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\pour some more water into the glass\pour some more water into the glass (2).mp4,train
+pour some more water into the glass.mp4,pour some more water into the glass,6,pour some more water into the glass,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\pour some more water into the glass\pour some more water into the glass.mp4,val
+pour.MP4,pour some more water into the glass,7,pour some more water into the glass,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\pour some more water into the glass\pour.MP4,test
+bed (2).MP4,prepare the bed,1,prepare the bed,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\prepare the bed\bed (2).MP4,train
+bed (3).MP4,prepare the bed,2,prepare the bed,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\prepare the bed\bed (3).MP4,train
+bed (4).MP4,prepare the bed,3,prepare the bed,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\prepare the bed\bed (4).MP4,train
+bed (5).MP4,prepare the bed,4,prepare the bed,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\prepare the bed\bed (5).MP4,train
+bed.MP4,prepare the bed,5,prepare the bed,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\prepare the bed\bed.MP4,train
+prepare the bed (2).mp4,prepare the bed,6,prepare the bed,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\prepare the bed\prepare the bed (2).mp4,val
+prepare the bed.mp4,prepare the bed,7,prepare the bed,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\prepare the bed\prepare the bed.mp4,test
+serve (2).MP4,serve the food,1,serve the food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve (2).MP4,train
+serve (3).MP4,serve the food,2,serve the food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve (3).MP4,train
+serve (4).MP4,serve the food,3,serve the food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve (4).MP4,train
+serve (5).MP4,serve the food,4,serve the food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve (5).MP4,train
+serve 1.MP4,serve the food,5,serve the food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve 1.MP4,train
+serve food.MP4,serve the food,6,serve the food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve food.MP4,val
+serve the food (2).mp4,serve the food,7,serve the food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve the food (2).mp4,test
+serve the food.mp4,serve the food,1,serve the food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve the food.mp4,train
+serve.MP4,serve the food,2,serve the food,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve.MP4,train
+MVI_6498.MP4,shall we go outside,1,shall we go outside,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\shall we go outside\MVI_6498.MP4,train
+outside (2).MP4,shall we go outside,2,shall we go outside,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\shall we go outside\outside (2).MP4,train
+outside (3).MP4,shall we go outside,3,shall we go outside,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\shall we go outside\outside (3).MP4,train
+outside (4).MP4,shall we go outside,4,shall we go outside,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\shall we go outside\outside (4).MP4,train
+outside.MP4,shall we go outside,5,shall we go outside,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\shall we go outside\outside.MP4,train
+shall we go outside (2).mp4,shall we go outside,6,shall we go outside,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\shall we go outside\shall we go outside (2).mp4,val
+shall we go outside.mp4,shall we go outside,7,shall we go outside,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\shall we go outside\shall we go outside.mp4,test
+softly (2).MP4,speak softly,1,speak softly,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\speak softly\softly (2).MP4,train
+softly (3).MP4,speak softly,2,speak softly,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\speak softly\softly (3).MP4,train
+softly (4).MP4,speak softly,3,speak softly,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\speak softly\softly (4).MP4,train
+softly (5).MP4,speak softly,4,speak softly,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\speak softly\softly (5).MP4,train
+softly 1.MP4,speak softly,5,speak softly,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\speak softly\softly 1.MP4,train
+softly.MP4,speak softly,6,speak softly,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\speak softly\softly.MP4,val
+speak softly (2).mp4,speak softly,7,speak softly,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\speak softly\speak softly (2).mp4,test
+speak softly.mp4,speak softly,1,speak softly,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\speak softly\speak softly.mp4,train
+Take care (2).MP4,take care of yourself,1,take care of yourself,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\take care of yourself\Take care (2).MP4,train
+take care (3).MP4,take care of yourself,2,take care of yourself,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\take care of yourself\take care (3).MP4,train
+take care (4).MP4,take care of yourself,3,take care of yourself,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\take care of yourself\take care (4).MP4,train
+take care (5).MP4,take care of yourself,4,take care of yourself,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\take care of yourself\take care (5).MP4,train
+take care of yourself (2).mp4,take care of yourself,5,take care of yourself,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\take care of yourself\take care of yourself (2).mp4,train
+take care of yourself.mp4,take care of yourself,6,take care of yourself,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\take care of yourself\take care of yourself.mp4,val
+take care.MP4,take care of yourself,7,take care of yourself,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\take care of yourself\take care.MP4,test
+tell me truth (2).mp4,tell me truth,1,tell me truth,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\tell me truth\tell me truth (2).mp4,train
+tell me truth.mp4,tell me truth,2,tell me truth,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\tell me truth\tell me truth.mp4,train
+truth (2).MP4,tell me truth,3,tell me truth,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\tell me truth\truth (2).MP4,train
+truth (3).MP4,tell me truth,4,tell me truth,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\tell me truth\truth (3).MP4,train
+truth (4).MP4,tell me truth,5,tell me truth,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\tell me truth\truth (4).MP4,train
+truth.MP4,tell me truth,6,tell me truth,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\tell me truth\truth.MP4,val
+thank you so much (1).MP4,thank you so much,1,thank you so much,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\thank you so much\thank you so much (1).MP4,train
+thank you so much (3).MP4,thank you so much,2,thank you so much,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\thank you so much\thank you so much (3).MP4,train
+thank you so much (4).MP4,thank you so much,3,thank you so much,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\thank you so much\thank you so much (4).MP4,train
+thank you so much (5).MP4,thank you so much,4,thank you so much,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\thank you so much\thank you so much (5).MP4,train
+thank you so much (6).MP4,thank you so much,5,thank you so much,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\thank you so much\thank you so much (6).MP4,train
+thank you so much (7).mp4,thank you so much,6,thank you so much,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\thank you so much\thank you so much (7).mp4,val
+thank you so much (8).mp4,thank you so much,7,thank you so much,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\thank you so much\thank you so much (8).mp4,test
+MVI_6106.MP4,that is so kind of you,1,that is so kind of you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\that is so kind of you\MVI_6106.MP4,train
+MVI_6396.MP4,that is so kind of you,2,that is so kind of you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\that is so kind of you\MVI_6396.MP4,train
+MVI_6540.MP4,that is so kind of you,3,that is so kind of you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\that is so kind of you\MVI_6540.MP4,train
+MVI_6722.MP4,that is so kind of you,4,that is so kind of you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\that is so kind of you\MVI_6722.MP4,train
+MVI_6850.MP4,that is so kind of you,5,that is so kind of you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\that is so kind of you\MVI_6850.MP4,train
+that is so kind of you (2).mp4,that is so kind of you,6,that is so kind of you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\that is so kind of you\that is so kind of you (2).mp4,val
+that is so kind of you.mp4,that is so kind of you,7,that is so kind of you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\that is so kind of you\that is so kind of you.mp4,test
+try to understand (2).mp4,try to understand,1,try to understand,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\try to understand\try to understand (2).mp4,train
+try to understand.mp4,try to understand,2,try to understand,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\try to understand\try to understand.mp4,train
+understand (2).MP4,try to understand,3,try to understand,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\try to understand\understand (2).MP4,train
+understand (3).MP4,try to understand,4,try to understand,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\try to understand\understand (3).MP4,train
+understand (4).MP4,try to understand,5,try to understand,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\try to understand\understand (4).MP4,train
+understand (5).MP4,try to understand,6,try to understand,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\try to understand\understand (5).MP4,val
+understand.MP4,try to understand,7,try to understand,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\try to understand\understand.MP4,test
+turn on (2).MP4,turn on light turn off light,1,turn on light turn off light,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\turn on light turn off light\turn on (2).MP4,train
+turn on (3).MP4,turn on light turn off light,2,turn on light turn off light,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\turn on light turn off light\turn on (3).MP4,train
+turn on (4).MP4,turn on light turn off light,3,turn on light turn off light,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\turn on light turn off light\turn on (4).MP4,train
+turn on (5).MP4,turn on light turn off light,4,turn on light turn off light,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\turn on light turn off light\turn on (5).MP4,train
+turn on light turn off light.mp4,turn on light turn off light,5,turn on light turn off light,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\turn on light turn off light\turn on light turn off light.mp4,train
+turn on lightturn off light.mp4,turn on light turn off light,6,turn on light turn off light,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\turn on light turn off light\turn on lightturn off light.mp4,val
+turn on.MP4,turn on light turn off light,7,turn on light turn off light,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\turn on light turn off light\turn on.MP4,test
+MVI_6208.MP4,we are all with you,1,we are all with you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\we are all with you\MVI_6208.MP4,train
+MVI_6506.MP4,we are all with you,2,we are all with you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\we are all with you\MVI_6506.MP4,train
+MVI_6684.MP4,we are all with you,3,we are all with you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\we are all with you\MVI_6684.MP4,train
+MVI_6957.MP4,we are all with you,4,we are all with you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\we are all with you\MVI_6957.MP4,train
+all.MP4,we are all with you,5,we are all with you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\we are all with you\all.MP4,train
+we are all with you (2).mp4,we are all with you,6,we are all with you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\we are all with you\we are all with you (2).mp4,val
+we are all with you.mp4,we are all with you,7,we are all with you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\we are all with you\we are all with you.mp4,test
+shirt (2).MP4,wear the shirt,1,wear the shirt,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\wear the shirt\shirt (2).MP4,train
+shirt (3).MP4,wear the shirt,2,wear the shirt,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\wear the shirt\shirt (3).MP4,train
+shirt (4).MP4,wear the shirt,3,wear the shirt,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\wear the shirt\shirt (4).MP4,train
+shirt (5).MP4,wear the shirt,4,wear the shirt,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\wear the shirt\shirt (5).MP4,train
+shirt.MP4,wear the shirt,5,wear the shirt,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\wear the shirt\shirt.MP4,train
+wear the shirt (2).mp4,wear the shirt,6,wear the shirt,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\wear the shirt\wear the shirt (2).mp4,val
+wear the shirt.mp4,wear the shirt,7,wear the shirt,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\wear the shirt\wear the shirt.mp4,test
+what are you doing (1).MP4,what are you doing,1,what are you doing,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what are you doing\what are you doing (1).MP4,train
+what are you doing (3).MP4,what are you doing,2,what are you doing,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what are you doing\what are you doing (3).MP4,train
+what are you doing (4).MP4,what are you doing,3,what are you doing,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what are you doing\what are you doing (4).MP4,train
+what are you doing (5).MP4,what are you doing,4,what are you doing,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what are you doing\what are you doing (5).MP4,train
+what are you doing (6).MP4,what are you doing,5,what are you doing,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what are you doing\what are you doing (6).MP4,train
+what are you doing (7).mp4,what are you doing,6,what are you doing,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what are you doing\what are you doing (7).mp4,val
+what are you doing (8).mp4,what are you doing,7,what are you doing,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what are you doing\what are you doing (8).mp4,test
+MVI_6497.MP4,what did you tell him,1,what did you tell him,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what did you tell him\MVI_6497.MP4,train
+tell him (2).MP4,what did you tell him,2,what did you tell him,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what did you tell him\tell him (2).MP4,train
+tell him (3).MP4,what did you tell him,3,what did you tell him,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what did you tell him\tell him (3).MP4,train
+tell him (4).MP4,what did you tell him,4,what did you tell him,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what did you tell him\tell him (4).MP4,train
+tell him.MP4,what did you tell him,5,what did you tell him,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what did you tell him\tell him.MP4,train
+what did you tell him (2).mp4,what did you tell him,6,what did you tell him,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what did you tell him\what did you tell him (2).mp4,val
+what did you tell him.mp4,what did you tell him,7,what did you tell him,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what did you tell him\what did you tell him.mp4,test
+what do you do (1).MP4,what do you do,1,what do you do,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you do\what do you do (1).MP4,train
+what do you do (3).MP4,what do you do,2,what do you do,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you do\what do you do (3).MP4,train
+what do you do (4).MP4,what do you do,3,what do you do,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you do\what do you do (4).MP4,train
+what do you do (5).MP4,what do you do,4,what do you do,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you do\what do you do (5).MP4,train
+what do you do (6).mp4,what do you do,5,what do you do,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you do\what do you do (6).mp4,train
+what do you do (7).mp4,what do you do,6,what do you do,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you do\what do you do (7).mp4,val
+what do you think (1).MP4,what do you think,1,what do you think,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you think\what do you think (1).MP4,train
+what do you think (3).MP4,what do you think,2,what do you think,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you think\what do you think (3).MP4,train
+what do you think (4).MP4,what do you think,3,what do you think,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you think\what do you think (4).MP4,train
+what do you think (5).MP4,what do you think,4,what do you think,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you think\what do you think (5).MP4,train
+what do you think (6).MP4,what do you think,5,what do you think,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you think\what do you think (6).MP4,train
+what do you think (7).mp4,what do you think,6,what do you think,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you think\what do you think (7).mp4,val
+what do you think (8).mp4,what do you think,7,what do you think,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you think\what do you think (8).mp4,test
+become (2).MP4,what do you want to become,1,what do you want to become,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you want to become\become (2).MP4,train
+become (3).MP4,what do you want to become,2,what do you want to become,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you want to become\become (3).MP4,train
+become (4).MP4,what do you want to become,3,what do you want to become,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you want to become\become (4).MP4,train
+become (5).MP4,what do you want to become,4,what do you want to become,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you want to become\become (5).MP4,train
+become.MP4,what do you want to become,5,what do you want to become,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you want to become\become.MP4,train
+what do you want to become (2).mp4,what do you want to become,6,what do you want to become,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you want to become\what do you want to become (2).mp4,val
+what do you want to become.mp4,what do you want to become,7,what do you want to become,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you want to become\what do you want to become.mp4,test
+MVI_6495.MP4,what happened,1,what happened,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what happened\MVI_6495.MP4,train
+happen.MP4,what happened,2,what happened,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what happened\happen.MP4,train
+happened (2).MP4,what happened,3,what happened,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what happened\happened (2).MP4,train
+happened (3).MP4,what happened,4,what happened,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what happened\happened (3).MP4,train
+happened.MP4,what happened,5,what happened,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what happened\happened.MP4,train
+what happened.mp4,what happened,6,what happened,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what happened\what happened.mp4,val
+MVI_6499.MP4,what have you planned for your career,1,what have you planned for your career,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what have you planned for your career\MVI_6499.MP4,train
+what have you planned for your career (2).mp4,what have you planned for your career,2,what have you planned for your career,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what have you planned for your career\what have you planned for your career (2).mp4,train
+what have you planned for your career.mp4,what have you planned for your career,3,what have you planned for your career,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what have you planned for your career\what have you planned for your career.mp4,train
+what is your phone number (1).MP4,what is your phone number,1,what is your phone number,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what is your phone number\what is your phone number (1).MP4,train
+what is your phone number (3).MP4,what is your phone number,2,what is your phone number,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what is your phone number\what is your phone number (3).MP4,train
+what is your phone number (4).MP4,what is your phone number,3,what is your phone number,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what is your phone number\what is your phone number (4).MP4,train
+what is your phone number (5).MP4,what is your phone number,4,what is your phone number,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what is your phone number\what is your phone number (5).MP4,train
+what is your phone number (6).MP4,what is your phone number,5,what is your phone number,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what is your phone number\what is your phone number (6).MP4,train
+what is your phone number (7).mp4,what is your phone number,6,what is your phone number,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what is your phone number\what is your phone number (7).mp4,val
+what is your phone number (8).mp4,what is your phone number,7,what is your phone number,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what is your phone number\what is your phone number (8).mp4,test
+what you want (1).MP4,what you want,1,what you want,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what you want\what you want (1).MP4,train
+what you want (3).MP4,what you want,2,what you want,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what you want\what you want (3).MP4,train
+what you want (4).MP4,what you want,3,what you want,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what you want\what you want (4).MP4,train
+what you want (5).MP4,what you want,4,what you want,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what you want\what you want (5).MP4,train
+what you want (6).MP4,what you want,5,what you want,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what you want\what you want (6).MP4,train
+what you want (7).mp4,what you want,6,what you want,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what you want\what you want (7).mp4,val
+what you want (8).mp4,what you want,7,what you want,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\what you want\what you want (8).mp4,test
+leave (2).MP4,when will the train leave,1,when will the train leave,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\when will the train leave\leave (2).MP4,train
+leave (3).MP4,when will the train leave,2,when will the train leave,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\when will the train leave\leave (3).MP4,train
+leave (4).MP4,when will the train leave,3,when will the train leave,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\when will the train leave\leave (4).MP4,train
+leave (5).MP4,when will the train leave,4,when will the train leave,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\when will the train leave\leave (5).MP4,train
+leave.MP4,when will the train leave,5,when will the train leave,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\when will the train leave\leave.MP4,train
+when will the train leave (2).mp4,when will the train leave,6,when will the train leave,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\when will the train leave\when will the train leave (2).mp4,val
+when will the train leave.mp4,when will the train leave,7,when will the train leave,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\when will the train leave\when will the train leave.mp4,test
+where are you from (1).MP4,where are you from,1,where are you from,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\where are you from\where are you from (1).MP4,train
+where are you from (3).MP4,where are you from,2,where are you from,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\where are you from\where are you from (3).MP4,train
+where are you from (4).MP4,where are you from,3,where are you from,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\where are you from\where are you from (4).MP4,train
+where are you from (5).MP4,where are you from,4,where are you from,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\where are you from\where are you from (5).MP4,train
+where are you from (6).mp4,where are you from,5,where are you from,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\where are you from\where are you from (6).mp4,train
+where are you from (7).mp4,where are you from,6,where are you from,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\where are you from\where are you from (7).mp4,val
+college school (2).MP4,which collegeschool are you from,1,,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\which collegeschool are you from\college school (2).MP4,train
+college school (3).MP4,which collegeschool are you from,2,,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\which collegeschool are you from\college school (3).MP4,train
+college school.MP4,which collegeschool are you from,3,,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\which collegeschool are you from\college school.MP4,train
+school college (2).MP4,which collegeschool are you from,4,,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\which collegeschool are you from\school college (2).MP4,train
+school college.MP4,which collegeschool are you from,5,,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\which collegeschool are you from\school college.MP4,train
+which collegeschool are you from (2).mp4,which collegeschool are you from,6,,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\which collegeschool are you from\which collegeschool are you from (2).mp4,val
+which collegeschool are you from.mp4,which collegeschool are you from,7,,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\which collegeschool are you from\which collegeschool are you from.mp4,test
+who are you (1).MP4,who are you,1,who are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\who are you\who are you (1).MP4,train
+who are you (3).MP4,who are you,2,who are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\who are you\who are you (3).MP4,train
+who are you (4).MP4,who are you,3,who are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\who are you\who are you (4).MP4,train
+who are you (5).MP4,who are you,4,who are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\who are you\who are you (5).MP4,train
+who are you (6).MP4,who are you,5,who are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\who are you\who are you (6).MP4,train
+who are you (7).mp4,who are you,6,who are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\who are you\who are you (7).mp4,val
+who are you (8).mp4,who are you,7,who are you,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\who are you\who are you (8).mp4,test
+angry (2).MP4,why are you angry,1,why are you angry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you angry\angry (2).MP4,train
+angry (3).MP4,why are you angry,2,why are you angry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you angry\angry (3).MP4,train
+angry (4).MP4,why are you angry,3,why are you angry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you angry\angry (4).MP4,train
+angry (5).MP4,why are you angry,4,why are you angry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you angry\angry (5).MP4,train
+angry.MP4,why are you angry,5,why are you angry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you angry\angry.MP4,train
+why are you angry (2).mp4,why are you angry,6,why are you angry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you angry\why are you angry (2).mp4,val
+why are you angry.mp4,why are you angry,7,why are you angry,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you angry\why are you angry.mp4,test
+crying (2).MP4,why are you crying,1,why are you crying,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you crying\crying (2).MP4,train
+crying (3).MP4,why are you crying,2,why are you crying,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you crying\crying (3).MP4,train
+crying (4).MP4,why are you crying,3,why are you crying,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you crying\crying (4).MP4,train
+crying (5).MP4,why are you crying,4,why are you crying,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you crying\crying (5).MP4,train
+crying.MP4,why are you crying,5,why are you crying,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you crying\crying.MP4,train
+why are you crying (2).mp4,why are you crying,6,why are you crying,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you crying\why are you crying (2).mp4,val
+why are you crying.mp4,why are you crying,7,why are you crying,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you crying\why are you crying.mp4,test
+disappointed (2).MP4,why are you disappointed,1,why are you disappointed,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you disappointed\disappointed (2).MP4,train
+disappointed (3).MP4,why are you disappointed,2,why are you disappointed,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you disappointed\disappointed (3).MP4,train
+disappointed (4).MP4,why are you disappointed,3,why are you disappointed,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you disappointed\disappointed (4).MP4,train
+disappointed (5).MP4,why are you disappointed,4,why are you disappointed,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you disappointed\disappointed (5).MP4,train
+disappointed.MP4,why are you disappointed,5,why are you disappointed,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you disappointed\disappointed.MP4,train
+why are you disappointed (2).mp4,why are you disappointed,6,why are you disappointed,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you disappointed\why are you disappointed (2).mp4,val
+why are you disappointed.mp4,why are you disappointed,7,why are you disappointed,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you disappointed\why are you disappointed.mp4,test
+bad (2).MP4,you are bad,1,you are bad,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are bad\bad (2).MP4,train
+bad (3).MP4,you are bad,2,you are bad,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are bad\bad (3).MP4,train
+bad (4).MP4,you are bad,3,you are bad,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are bad\bad (4).MP4,train
+bad (5).MP4,you are bad,4,you are bad,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are bad\bad (5).MP4,train
+bad 1.MP4,you are bad,5,you are bad,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are bad\bad 1.MP4,train
+bad.MP4,you are bad,6,you are bad,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are bad\bad.MP4,val
+you are bad (2).mp4,you are bad,7,you are bad,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are bad\you are bad (2).mp4,test
+you are bad.mp4,you are bad,1,you are bad,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are bad\you are bad.mp4,train
+good (2).MP4,you are good,1,you are good,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are good\good (2).MP4,train
+good (3).MP4,you are good,2,you are good,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are good\good (3).MP4,train
+good (4).MP4,you are good,3,you are good,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are good\good (4).MP4,train
+good (5).MP4,you are good,4,you are good,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are good\good (5).MP4,train
+good.MP4,you are good,5,you are good,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are good\good.MP4,train
+you are good (2).mp4,you are good,6,you are good,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are good\you are good (2).mp4,val
+you are good.mp4,you are good,7,you are good,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are good\you are good.mp4,test
+welcome (2).MP4,you are welcome,1,you are welcome,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are welcome\welcome (2).MP4,train
+welcome (3).MP4,you are welcome,2,you are welcome,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are welcome\welcome (3).MP4,train
+welcome (4).MP4,you are welcome,3,you are welcome,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are welcome\welcome (4).MP4,train
+welcome (5).MP4,you are welcome,4,you are welcome,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are welcome\welcome (5).MP4,train
+welcome.MP4,you are welcome,5,you are welcome,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are welcome\welcome.MP4,train
+you are welcome (2).mp4,you are welcome,6,you are welcome,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are welcome\you are welcome (2).mp4,val
+you are welcome.mp4,you are welcome,7,you are welcome,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are welcome\you are welcome.mp4,test
+can do (2).MP4,you can do it,1,you can do it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you can do it\can do (2).MP4,train
+can do (3).MP4,you can do it,2,you can do it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you can do it\can do (3).MP4,train
+can do (4).MP4,you can do it,3,you can do it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you can do it\can do (4).MP4,train
+can do (5).MP4,you can do it,4,you can do it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you can do it\can do (5).MP4,train
+can do.MP4,you can do it,5,you can do it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you can do it\can do.MP4,train
+you can do it (2).mp4,you can do it,6,you can do it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you can do it\you can do it (2).mp4,val
+you can do it.mp4,you can do it,7,you can do it,,,,D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you can do it\you can do it.mp4,test
+care.MP4,"you do anything, i do not care",1,"you do anything, i do not care",,,,"D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you do anything, i do not care\care.MP4",train
+donotcare.MP4,"you do anything, i do not care",2,"you do anything, i do not care",,,,"D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you do anything, i do not care\donotcare.MP4",train
+dont care (2).MP4,"you do anything, i do not care",3,"you do anything, i do not care",,,,"D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you do anything, i do not care\dont care (2).MP4",train
+dont care.MP4,"you do anything, i do not care",4,"you do anything, i do not care",,,,"D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you do anything, i do not care\dont care.MP4",train
+"you do anything, i do not care (2).mp4","you do anything, i do not care",5,"you do anything, i do not care",,,,"D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you do anything, i do not care\you do anything, i do not care (2).mp4",train
+"you do anything, i do not care.mp4","you do anything, i do not care",6,"you do anything, i do not care",,,,"D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you do anything, i do not care\you do anything, i do not care.mp4",val
+medicine (2).MP4,"you need a medicine, take this one",1,"you need a medicine, take this one",,,,"D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you need a medicine, take this one\medicine (2).MP4",train
+medicine (3).MP4,"you need a medicine, take this one",2,"you need a medicine, take this one",,,,"D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you need a medicine, take this one\medicine (3).MP4",train
+medicine (4).MP4,"you need a medicine, take this one",3,"you need a medicine, take this one",,,,"D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you need a medicine, take this one\medicine (4).MP4",train
+medicine (5).MP4,"you need a medicine, take this one",4,"you need a medicine, take this one",,,,"D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you need a medicine, take this one\medicine (5).MP4",train
+medicine.MP4,"you need a medicine, take this one",5,"you need a medicine, take this one",,,,"D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you need a medicine, take this one\medicine.MP4",train
+"you need a medicine, take this one..mp4","you need a medicine, take this one",6,"you need a medicine, take this one",,,,"D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you need a medicine, take this one\you need a medicine, take this one..mp4",val
+"you need a medicine, take this one.mp4","you need a medicine, take this one",7,"you need a medicine, take this one",,,,"D:\ISL2\ISL_CSLRT_Corpus\Videos_Sentence_Level\you need a medicine, take this one\you need a medicine, take this one.mp4",test

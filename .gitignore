@@ -1,0 +1,32 @@
+# ── Datasets & large binary files ─────────────────────────────────
+Frames_Sentence_Level/
+paper1_kpts/
+resnet18_features/
+preprocessed_data/
+preprocessed_v2/
+
+# ── Model checkpoints (large .pth files) ──────────────────────────
+*.pth
+
+# ── Generated output images ───────────────────────────────────────
+*.png
+
+# ── Python cache ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# ── Helper/temp scripts (not part of the project) ─────────────────
+gen_nb1.py
+gen_nb2.py
+fix_emfslt.py
+add_accuracy.py
+dump_nb.py
+extract_papers.py
+
+# ── Misc ──────────────────────────────────────────────────────────
+*.log
+*.tmp
+antigravity_ai/
+.gemini/

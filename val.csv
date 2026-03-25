@@ -1,0 +1,258 @@
+image_path,label
+dataset/val\A LOT\A LOT (3).jpg,A LOT
+dataset/val\ABUSE\ABUSE (3).jpg,ABUSE
+dataset/val\AFRAID\AFRAID (4).jpg,AFRAID
+dataset/val\AFRAID\AFRAID (6).jpg,AFRAID
+dataset/val\AGREE\AGREE (3).jpg,AGREE
+dataset/val\AGREE\AGREE (7).jpg,AGREE
+dataset/val\ALL\ALL (2).jpg,ALL
+dataset/val\ANGRY\ANGRY (6).jpg,ANGRY
+dataset/val\ANGRY\ANGRY (9).jpg,ANGRY
+dataset/val\ANYTHING\ANYTHING (2).jpg,ANYTHING
+dataset/val\APPRECIATE\APPRECIATE (4).jpg,APPRECIATE
+dataset/val\BAD\BAD (4).jpg,BAD
+dataset/val\BEAUTIFUL\BEAUTIFUL (1).jpg,BEAUTIFUL
+dataset/val\BECOME\BECOME (5).jpg,BECOME
+dataset/val\BED\BED (1).jpg,BED
+dataset/val\BED\BED (5).jpg,BED
+dataset/val\BORED\BORED (2).jpg,BORED
+dataset/val\BORED\BORED (4).jpg,BORED
+dataset/val\BRING\BRING-2.jpg,BRING
+dataset/val\BRING\BRING-4.jpg,BRING
+dataset/val\CHAT\CHAT (2).jpg,CHAT
+dataset/val\CHAT\CHAT.jpg,CHAT
+dataset/val\CLASS\CLASS (4).jpg,CLASS
+dataset/val\COLD\COLD (1).jpg,COLD
+dataset/val\COLD\COLD (5).jpg,COLD
+dataset/val\COLLEGE_SCHOOL\COLLEGE OR SCHOOL (3).jpg,COLLEGE_SCHOOL
+dataset/val\COLLEGE_SCHOOL\COLLEGE OR SCHOOL.jpg,COLLEGE_SCHOOL
+dataset/val\COLLEGE_SCHOOL\FROM (2).jpg,COLLEGE_SCHOOL
+dataset/val\COLLEGE_SCHOOL\WHICH (5).jpg,COLLEGE_SCHOOL
+dataset/val\COMB\COMB (4).jpg,COMB
+dataset/val\COMB\COMB (7).jpg,COMB
+dataset/val\COME\COME (3).jpg,COME
+dataset/val\COME\COME.jpg,COME
+dataset/val\CONGRATULATIONS\CONGRATULATIONS (2).jpg,CONGRATULATIONS
+dataset/val\CONGRATULATIONS\CONGRATULATIONS (4).jpg,CONGRATULATIONS
+dataset/val\CRYING\CRYING (12).jpg,CRYING
+dataset/val\CRYING\CRYING (2).jpg,CRYING
+dataset/val\CRYING\CRYING (9).jpg,CRYING
+dataset/val\DARE\DARE (3).jpg,DARE
+dataset/val\DARE\DARE (5).jpg,DARE
+dataset/val\DIFFERENCE\DIFFERENCE (3).jpg,DIFFERENCE
+dataset/val\DILEMMA\DILEMMA (4).jpg,DILEMMA
+dataset/val\DILEMMA\DILEMMA (5).jpg,DILEMMA
+dataset/val\DISAPPOINTED\DISAPPOINTED (1).jpg,DISAPPOINTED
+dataset/val\DISAPPOINTED\DISAPPOINTED (3).jpg,DISAPPOINTED
+dataset/val\DO\DO-1.jpg,DO
+dataset/val\DO\DO-5.jpg,DO
+dataset/val\DO\DO-6.jpg,DO
+dataset/val\DON'T CARE\DONT CARE (1).jpg,DON'T CARE
+dataset/val\ENJOY\ENJOY (8).jpg,ENJOY
+dataset/val\FAVOUR\FAVOUR (4).jpg,FAVOUR
+dataset/val\FEVER\FEVER (5).jpg,FEVER
+dataset/val\FEVER\FEVER (6).jpg,FEVER
+dataset/val\FINE\FINE (1).jpg,FINE
+dataset/val\FINE\FINE (6).jpg,FINE
+dataset/val\FOOD\FOOD (12).jpg,FOOD
+dataset/val\FOOD\FOOD (5).jpg,FOOD
+dataset/val\FOOD\food 18.jpg,FOOD
+dataset/val\FOOD\FOOD-7.jpg,FOOD
+dataset/val\FOOD\FOOD.jpg,FOOD
+dataset/val\FREE\FREE (1).jpg,FREE
+dataset/val\FREE\FREE (4).jpg,FREE
+dataset/val\FRIEND\FRIEND (2).jpg,FRIEND
+dataset/val\FRIEND\FRIEND (6).jpg,FRIEND
+dataset/val\FROM\FROM-2.jpg,FROM
+dataset/val\FROM\FROM-6.jpg,FROM
+dataset/val\GO\GO (6).jpg,GO
+dataset/val\GO\GO (9).jpg,GO
+dataset/val\GOOD\GOOD (4).jpg,GOOD
+dataset/val\GOOD\GOOD (6).jpg,GOOD
+dataset/val\GRATEFUL\GRATEFUL (3).jpg,GRATEFUL
+dataset/val\GRATEFUL\GRATEFUL (5).jpg,GRATEFUL
+dataset/val\HAD\HAD (3).jpg,HAD
+dataset/val\HAPPENED\HAPPENED (2).jpg,HAPPENED
+dataset/val\HAPPY\HAPPY (3).jpg,HAPPY
+dataset/val\HEAR\HEAR (2).jpg,HEAR
+dataset/val\HEAR\HEAR (7).jpg,HEAR
+dataset/val\HEART\HEART (1).jpg,HEART
+dataset/val\HEART\HEART (4).jpg,HEART
+dataset/val\HELLO_HI\HELLO HI-1.jpg,HELLO_HI
+dataset/val\HELP\HELP (11).jpg,HELP
+dataset/val\HELP\HELP (6).jpg,HELP
+dataset/val\HELP\HELP (9).jpg,HELP
+dataset/val\HELP\HELP-1.jpg,HELP
+dataset/val\HELP\HELP.jpg,HELP
+dataset/val\HELP\NOT (5).jpg,HELP
+dataset/val\HIDING\HIDING (4).jpg,HIDING
+dataset/val\HIDING\HIDING.jpg,HIDING
+dataset/val\HOW\HOW (1).jpg,HOW
+dataset/val\HOW\HOW (11).jpg,HOW
+dataset/val\HOW\HOW (12).jpg,HOW
+dataset/val\HOW\HOW-1.jpg,HOW
+dataset/val\HUNGRY\HUNGRY-1.jpg,HUNGRY
+dataset/val\HUNGRY\HUNGRY-3.jpg,HUNGRY
+dataset/val\HURT\HURT (4).jpg,HURT
+dataset/val\HURT\HURT (6).jpg,HURT
+dataset/val\HURT\HURT (9).jpg,HURT
+dataset/val\I_ME_MINE_MY\I (17).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I (22).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I (23).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I (28).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I (30).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I (33).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I (37).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I (38).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I (4).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I (45).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I (50).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I (51).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I (7).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I (8).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I-12.jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\I-7.jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\ME (8).jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\ME-2.jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\ME-66.jpg,I_ME_MINE_MY
+dataset/val\I_ME_MINE_MY\ME-77.jpg,I_ME_MINE_MY
+dataset/val\KIND\KIND (4).jpg,KIND
+dataset/val\KIND\KIND (6).jpg,KIND
+dataset/val\LEAVE\LEAVE (5).jpg,LEAVE
+dataset/val\LIKE\LIKE (1).jpg,LIKE
+dataset/val\LIKE\LIKE (4).jpg,LIKE
+dataset/val\LIKE_LOVE\love or like (1).jpg,LIKE_LOVE
+dataset/val\LIKE_LOVE\love or like (4).jpg,LIKE_LOVE
+dataset/val\MEAN IT\MEAN (3).jpg,MEAN IT
+dataset/val\MEDICINE\MEDICINE (5).jpg,MEDICINE
+dataset/val\MEDICINE\MEDICINE (6).jpg,MEDICINE
+dataset/val\MEET\MEET-4.jpg,MEET
+dataset/val\NAME\NAME-2.jpg,NAME
+dataset/val\NAME\NAME-3.jpg,NAME
+dataset/val\NICE\NICE (6).jpg,NICE
+dataset/val\NICE\NICE-1.jpg,NICE
+dataset/val\NICE\NICE-5.jpg,NICE
+dataset/val\NOT\NOT (1).jpg,NOT
+dataset/val\NOT\NOT (15).jpg,NOT
+dataset/val\NOT\NOT (3).jpg,NOT
+dataset/val\NOT\NOT (8).jpg,NOT
+dataset/val\NUMBER\NUMBER (3).jpg,NUMBER
+dataset/val\NUMBER\NUMBER (5).jpg,NUMBER
+dataset/val\OLD_AGE\OLD (1).jpg,OLD_AGE
+dataset/val\OLD_AGE\OLD (3).jpg,OLD_AGE
+dataset/val\OLD_AGE\OLD (4).jpg,OLD_AGE
+dataset/val\ON THE WAY\ON THE WAY (1).jpg,ON THE WAY
+dataset/val\OUTSIDE\OUTSIDE (1).jpg,OUTSIDE
+dataset/val\OUTSIDE\OUTSIDE (6).jpg,OUTSIDE
+dataset/val\PHONE\PHONE-4.jpg,PHONE
+dataset/val\PHONE\PHONE-5.jpg,PHONE
+dataset/val\PLACE\THIS PLACE (1).jpg,PLACE
+dataset/val\PLEASE\PLEASE-1.jpg,PLEASE
+dataset/val\POUR\POUR (1).jpg,POUR
+dataset/val\POUR\POUR (3).jpg,POUR
+dataset/val\PREPARE\PREPARE (2).jpg,PREPARE
+dataset/val\PREPARE\PREPARE (6).jpg,PREPARE
+dataset/val\PROMISE\PROMISE (1).jpg,PROMISE
+dataset/val\PROMISE\PROMISE (5).jpg,PROMISE
+dataset/val\REALLY\REALLY (1).jpg,REALLY
+dataset/val\REALLY\REALLY (2).jpg,REALLY
+dataset/val\REALLY\REALLY 2 (5).jpg,REALLY
+dataset/val\REPEAT\REPEAT-1.jpg,REPEAT
+dataset/val\REPEAT\REPEAT-5.jpg,REPEAT
+dataset/val\ROOM\GO (1).jpg,ROOM
+dataset/val\ROOM\ROOM (4).jpg,ROOM
+dataset/val\SERVE\SERVE (5).jpg,SERVE
+dataset/val\SERVE\SERVE (6).jpg,SERVE
+dataset/val\SHIRT\SHIRT (2).jpg,SHIRT
+dataset/val\SHIRT\SHIRT (4).jpg,SHIRT
+dataset/val\SITTING\SITTING (1).jpg,SITTING
+dataset/val\SLEEP\SLEEP (5).jpg,SLEEP
+dataset/val\SLOWER\SLOWER-4.jpg,SLOWER
+dataset/val\SO MUCH\SO MUCH-3.jpg,SO MUCH
+dataset/val\SO MUCH\SO MUCH-4.jpg,SO MUCH
+dataset/val\SOFTLY\SOFTLY (1).jpg,SOFTLY
+dataset/val\SOME HOW\SOMEHOW (6).jpg,SOME HOW
+dataset/val\SOME HOW\SOMEHOW (7).jpg,SOME HOW
+dataset/val\SOME ONE\SOMEONE (3).jpg,SOME ONE
+dataset/val\SOME ONE\SOMEONE (6).jpg,SOME ONE
+dataset/val\SOMETHING\SOMETHING (2).jpg,SOMETHING
+dataset/val\SORRY\SORRY (1).jpg,SORRY
+dataset/val\SORRY\SORRY (3).jpg,SORRY
+dataset/val\SPEAK\SPEAK (5).jpg,SPEAK
+dataset/val\STOP\STOP (1).jpg,STOP
+dataset/val\STOP\STOP (3).jpg,STOP
+dataset/val\STUBBORN\STUBBORN (1).jpg,STUBBORN
+dataset/val\SURE\SURE (4).jpg,SURE
+dataset/val\SURE\SURE (5).jpg,SURE
+dataset/val\TAKE CARE\TAKE CARE (6).jpg,TAKE CARE
+dataset/val\TAKE CARE\TAKE CARE (8).jpg,TAKE CARE
+dataset/val\TAKE TIME\TIME (6).jpg,TAKE TIME
+dataset/val\TAKE TIME\TIME (7).jpg,TAKE TIME
+dataset/val\TALK\TALK-2.jpg,TALK
+dataset/val\TALK\TALK-6.jpg,TALK
+dataset/val\TELL\TELL  (2).jpg,TELL
+dataset/val\TELL\TELL.jpg,TELL
+dataset/val\THANK\THANK (5).jpg,THANK
+dataset/val\THANK\THANK-2.jpg,THANK
+dataset/val\THANK\THANK-7.jpg,THANK
+dataset/val\THAT\THAT (1).jpg,THAT
+dataset/val\THAT\THAT (6).jpg,THAT
+dataset/val\THAT\THAT (8).jpg,THAT
+dataset/val\THINGS\THINGS (2).jpg,THINGS
+dataset/val\THINK\THINK-1.jpg,THINK
+dataset/val\THINK\THINK-4.jpg,THINK
+dataset/val\THIRSTY\THIRSTY-1.jpg,THIRSTY
+dataset/val\THIRSTY\THIRSTY-5.jpg,THIRSTY
+dataset/val\TIRED\TIRED (1).jpg,TIRED
+dataset/val\TIRED\TIRED (2).jpg,TIRED
+dataset/val\TODAY\TODAY (3).jpg,TODAY
+dataset/val\TODAY\TODAY (7).jpg,TODAY
+dataset/val\TRAIN\TRAIN (5).jpg,TRAIN
+dataset/val\TRUST\TRUST (1).jpg,TRUST
+dataset/val\TRUTH\TRUTH.jpg,TRUTH
+dataset/val\TURN ON\TURN ON (1).jpg,TURN ON
+dataset/val\TURN ON\TURN ON (4).jpg,TURN ON
+dataset/val\UNDERSTAND\UNDERSTAND (3).jpg,UNDERSTAND
+dataset/val\WANT\want-6.jpg,WANT
+dataset/val\WATER\WATER (13).jpg,WATER
+dataset/val\WATER\WATER (15).jpg,WATER
+dataset/val\WATER\WATER (18).jpg,WATER
+dataset/val\WATER\WATER (26).jpg,WATER
+dataset/val\WATER\WATER (9).jpg,WATER
+dataset/val\WEAR\WEAR (3).jpg,WEAR
+dataset/val\WEAR\WEAR (6).jpg,WEAR
+dataset/val\WELCOME\WELCOME (5).jpg,WELCOME
+dataset/val\WHAT\WHAT (1).jpg,WHAT
+dataset/val\WHAT\WHAT (10).jpg,WHAT
+dataset/val\WHAT\WHAT (15).jpg,WHAT
+dataset/val\WHAT\WHAT (9).jpg,WHAT
+dataset/val\WHAT\what-4.jpg,WHAT
+dataset/val\WHAT\WHAT-5 (2).jpg,WHAT
+dataset/val\WHAT\what-7.jpg,WHAT
+dataset/val\WHERE\WHERE-3.jpg,WHERE
+dataset/val\WHERE\WHERE-7.jpg,WHERE
+dataset/val\WHO\WHO-2.jpg,WHO
+dataset/val\WHO\WHO-6.jpg,WHO
+dataset/val\WORRY\WORRY (4).jpg,WORRY
+dataset/val\YOU\YOU (20).jpg,YOU
+dataset/val\YOU\YOU (23).jpg,YOU
+dataset/val\YOU\YOU (28).jpg,YOU
+dataset/val\YOU\YOU (35).jpg,YOU
+dataset/val\YOU\YOU (38).jpg,YOU
+dataset/val\YOU\YOU (39).jpg,YOU
+dataset/val\YOU\YOU (46).jpg,YOU
+dataset/val\YOU\YOU (5).jpg,YOU
+dataset/val\YOU\you-1 (2).jpg,YOU
+dataset/val\YOU\YOU-1 (6).jpg,YOU
+dataset/val\YOU\YOU-2 (2).jpg,YOU
+dataset/val\YOU\you-3 (2).jpg,YOU
+dataset/val\YOU\YOU-3.jpg,YOU
+dataset/val\YOU\YOU-4 (3).jpg,YOU
+dataset/val\YOU\YOU-4 (5).jpg,YOU
+dataset/val\YOU\YOU-4 (6).jpg,YOU
+dataset/val\YOU\YOU-4 (7).jpg,YOU
+dataset/val\YOU\YOU-5.jpg,YOU
+dataset/val\YOU\YOU-6 (9).jpg,YOU
+dataset/val\YOU\YOU-6.jpg,YOU
+dataset/val\YOU\YOU-7 (6).jpg,YOU
+dataset/val\YOU\YOU-7 (7).jpg,YOU
