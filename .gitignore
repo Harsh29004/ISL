@@ -1,12 +1,17 @@
 # ── Datasets & large binary files ─────────────────────────────────
 Frames_Sentence_Level/
+Frames_Word_Level/
+Videos_Sentence_Level/
 paper1_kpts/
 resnet18_features/
 preprocessed_data/
 preprocessed_v2/
+data/
+corpus_csv_files/
 
 # ── Model checkpoints (large .pth files) ──────────────────────────
 *.pth
+checkpoints/
 
 # ── Generated output images ───────────────────────────────────────
 *.png
@@ -28,5 +33,6 @@ extract_papers.py
 # ── Misc ──────────────────────────────────────────────────────────
 *.log
 *.tmp
+*.txt
 antigravity_ai/
 .gemini/
